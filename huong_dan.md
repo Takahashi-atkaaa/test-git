@@ -153,4 +153,4 @@
   - Trao đổi trước khi chỉnh sửa file lớn/thường được dùng chung.
   - Commit sớm, push thường xuyên để mọi người thấy thay đổi.
   - Với conflict khó, thảo luận trên PR hoặc trực tiếp để giải quyết nhanh.
-dsdsdsds
+dsdsdsdsdsfsfsfdsfsdfdsfsfsfs
